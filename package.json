@@ -1,0 +1,7 @@
+{
+  "name": "dx-e2e-test-359",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
