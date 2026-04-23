@@ -1,7 +1,12 @@
 {
   "name": "dx-e2e-test-359",
   "version": "1.0.0",
+  "description": "DX regression test for VAR-359",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
